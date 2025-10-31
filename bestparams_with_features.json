@@ -1,0 +1,1 @@
+{"n_layers": 3, "n_neurons": 97, "learning_rate": 0.001414178428925009, "optimizer": "Adam", "n_epochs": 12, "batch_size": 128, "hidden_activation": "ReLU", "output_activation": "Sigmoid"}
